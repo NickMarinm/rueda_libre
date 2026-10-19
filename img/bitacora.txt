@@ -1,7 +1,11 @@
-/*
+[2026-10-19] - [Nicolas/NickMarinm]
 Roles a cumplir por cada tecnologia en Rueda Libre:
 
-  HTML: Aqui se desarrollara toda la estructura de la pagina
-  CSS : Aqui se desarrollara los estilos de la pagina
-  JS : Aqui se desarrollara toda la parte dinamica e interactiva de la pagina
-*/
+  HTML: Aqui se desarrollara la estructura y el contenido; por ejemplo, el encabezado, la informacion de las bicicletas y un formulario de alquiler.
+  CSS : Aqui se definiran los estilos visuales; por ejemplo, los colores, el tamano de los textos y la distribucion de las tarjetas de bicicletas.
+  JS : Aqui se desarrollara la interactividad; por ejemplo, calcular y mostrar el costo del alquiler segun la cantidad de horas seleccionadas.
+
+
+Metodo: GET | URL completa: http://127.0.0.1:8000/ | Protocolo: http | Host: 127.0.0.1 | Puerto: 8000 | Ruta: / | Codigo de estado: 200
+Metodo: GET | URL completa: http://127.0.0.1:8000/no-existe.html | Protocolo: http | Host: 127.0.0.1 | Puerto: 8000 | Ruta: /no-existe.html | Codigo de estado: 404
+Metodo: GET | URL completa: http://127.0.0.1:8000/promociones.html | Protocolo: http | Host: 127.0.0.1 | Puerto: 8000 | Ruta: /promociones.html | Codigo de estado: 404 | Significado: Not Found; el servidor no encontro el recurso solicitado.
