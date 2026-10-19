@@ -1,0 +1,7 @@
+/*
+Roles a cumplir por cada tecnologia en Rueda Libre:
+
+  HTML: Aqui se desarrollara toda la estructura de la pagina
+  CSS : Aqui se desarrollara los estilos de la pagina
+  JS : Aqui se desarrollara toda la parte dinamica e interactiva de la pagina
+*/
