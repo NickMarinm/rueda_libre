@@ -9,3 +9,15 @@ Roles a cumplir por cada tecnologia en Rueda Libre:
 Metodo: GET | URL completa: http://127.0.0.1:8000/ | Protocolo: http | Host: 127.0.0.1 | Puerto: 8000 | Ruta: / | Codigo de estado: 200
 Metodo: GET | URL completa: http://127.0.0.1:8000/no-existe.html | Protocolo: http | Host: 127.0.0.1 | Puerto: 8000 | Ruta: /no-existe.html | Codigo de estado: 404
 Metodo: GET | URL completa: http://127.0.0.1:8000/promociones.html | Protocolo: http | Host: 127.0.0.1 | Puerto: 8000 | Ruta: /promociones.html | Codigo de estado: 404 | Significado: Not Found; el servidor no encontro el recurso solicitado.
+
+Rutas de navegacion del sitio:
+Archivo de origen | Destino | Ruta escrita
+index.html | Inicio | index.html
+index.html | Tarifas y rutas | paginas/tarifas.html
+index.html | Reservas | paginas/reservas.html
+paginas/tarifas.html | Inicio | ../index.html
+paginas/tarifas.html | Tarifas y rutas | tarifas.html
+paginas/tarifas.html | Reservas | reservas.html
+paginas/reservas.html | Inicio | ../index.html
+paginas/reservas.html | Tarifas y rutas | tarifas.html
+paginas/reservas.html | Reservas | reservas.html
