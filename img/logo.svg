@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="72" viewBox="0 0 240 72" role="img">
+  <rect width="240" height="72" rx="14" fill="#eaf4ec"/>
+  <g fill="none" stroke="#397c59" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="40" cy="45" r="15"/>
+    <circle cx="78" cy="45" r="15"/>
+    <path d="m40 45 17-27 15 27H40l22-17h18m-18 0 9 17"/>
+  </g>
+  <text x="103" y="43" fill="#244c3a" font-family="Arial, sans-serif" font-size="20" font-weight="700">Rueda Libre</text>
+</svg>
